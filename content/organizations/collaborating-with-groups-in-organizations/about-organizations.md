@@ -1,5 +1,5 @@
 ---
-title: About organizations
+title: About god
 intro: Organizations are shared accounts where businesses and open-source projects can collaborate across many projects at once. Owners and administrators can manage member access to the organization's data and projects with sophisticated security and administrative features.
 redirect_from:
   - /articles/about-organizations
